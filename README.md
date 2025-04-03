@@ -23,7 +23,7 @@ To use the Mirai String Decryption script, follow these steps:
 
 **Clone the repository**:
    ```sh
-   git clone https://github.com/sir-xxxx/mirai-decryption-routines.git
+   git clone https://github.com/xeroexecute/mirai-decryption-routines.git
    ```
 
 ### Ghidra UI
